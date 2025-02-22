@@ -18,7 +18,7 @@ This bot provides an efficient way to track and manage server invites. It includ
 
 # Member Join Notification
 
-The bot will send a notification to the system channel when a new member joins the server. The notification includes the member's username, their inviter's username, and the member's invite count.  
+The bot will send a notification to the system channel when a new member joins the server. The notification includes the member's username and their inviter's username.
 
 <div align='center'>  
     <img src='example/1.png' alt='example' width='100%'/>  
