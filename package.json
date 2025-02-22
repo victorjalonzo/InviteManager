@@ -1,0 +1,29 @@
+{
+  "name": "inviter-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node ./dist/app.js",
+    "test": "vitest --config ./vitest.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^6.0.2",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.3",
+    "sharp": "^0.33.5",
+    "typescript": "^5.4.5",
+    "uuid": "^10.0.0",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.16.2"
+  }
+}
