@@ -38,15 +38,15 @@ The `/reward create` command is used to set up a new invite-based role reward.
 - **Invites** – The number of invites needed to earn the reward.  
 
 <div align='center'>  
-    <img src='example/5.png' alt='example4' width='300'/>  
-    <img src='example/6.png' alt='example5' width='300'/>  
+    <img src='example/5.png' alt='example4' width='100%'/>  
+    <img src='example/6.png' alt='example5' width='100%'/>  
 </div>  
 
 Once a role reward is active, the invite card will display the number of invites required to obtain it.  
 
 <div align='center'>  
-    <img src='example/7.png' alt='example6' width='300'/>  
-    <img src='example/8.png' alt='example7' width='300'/>  
+    <img src='example/7.png' alt='example6' width='100%'/>  
+    <img src='example/8.png' alt='example7' width='100%'/>  
 </div>
 
 ## Checking Rewards  
@@ -54,7 +54,7 @@ Once a role reward is active, the invite card will display the number of invites
 The `/reward list` command is used to view all active invite-based role rewards.  
 
 <div align='center'>  
-    <img src='example/9.png' alt='example8' width='300'/>  
+    <img src='example/9.png' alt='example8' width='100%'/>  
 </div>
 
 ## Deleting a Reward  
@@ -66,8 +66,8 @@ The `/reward delete` command is used to remove an invite-based role reward.
 - **Role** – The role associated with the reward.
 
 <div align='center'>  
-    <img src='example/10.png' alt='example9' width='300'/>
-    <img src='example/11.png' alt='example10' width='300'/>
+    <img src='example/10.png' alt='example9' width='100%'/>
+    <img src='example/11.png' alt='example10' width='100%'/>
 </div>
 
 ## Installation
