@@ -1,12 +1,12 @@
 # A bot designed to manage Discord server invites and role-based rewards.
 
-This bot offers a powerful and intuitive solution for tracking and managing invites within your Discord server. It streamlines the process of rewarding users for inviting others by integrating a flexible system for role-based rewards. With its user-friendly commands, server admins can easily monitor invite activity and manage rewards to incentivize community growth.
+This bot provides an intuitive solution for tracking invites and managing role-based rewards on your Discord server. It simplifies rewarding users for invites with a flexible system, allowing admins to easily monitor activity and incentivize community growth.
 
-Key features include two primary commands:
+Key features include two main commands:
 
-/invite: Retrieve and display a user’s invite count, making it easy to track their contributions to the server’s growth.
+/invite: View a user's invite count to track their contributions.
 
-/reward: Create, delete, or view role-based rewards, allowing admins to assign roles based on invite thresholds or remove existing rewards as needed. This feature provides customizable and dynamic reward management to boost engagement.
+/reward: Manage role-based rewards, allowing admins to assign or remove rewards based on invite milestones.
 
 <div align='center'>  
     <img src='example/2.png' alt='example1' width='100%'/>  
