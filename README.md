@@ -29,8 +29,8 @@ The bot will send a notification to the system channel when a new member joins t
 The `/invite` command allows users to check their current number of invites or view another user's invites.  
 
 <div align='center'>  
-    <img src='example/3.png' alt='example2' width='50%'/>  
-    <img src='example/4.png' alt='example3' width='50%'/>  
+    <img src='example/3.png' alt='example2' width='100%'/>  
+    <img src='example/4.png' alt='example3' width='100%'/>  
 </div>  
 
 ---
