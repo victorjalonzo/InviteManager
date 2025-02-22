@@ -5,7 +5,7 @@ This bot provides an efficient way to track and manage server invites. It includ
 - **`/reward`**: Create, delete, or view role-based invite rewards.
 
 <div align='center'>  
-    <img src='example/2.png' alt='example1' width='300'/>  
+    <img src='example/2.png' alt='example1' width='100%'/>  
 </div>  
 
 ## Features  
