@@ -87,8 +87,8 @@ The `/reward delete` command is used to remove an invite-based role reward.
 ### 1. Clone this repository:
 
 ```bash
-git clone repository.git
-cd repository
+git clone https://github.com/victorjalonzo/InviteManager.git
+cd InviteManager
 ```
 
 ### 2. Install dependencies:
