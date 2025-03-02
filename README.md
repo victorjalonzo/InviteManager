@@ -14,9 +14,9 @@ Key features include two main commands:
 
 ## Features  
 
-✔️ **New Member Notifications** – Announces new members and their inviter in the system channel by default.  
-✔️ **Invite Tracking** – Keeps track of each member’s total invites.  
-✔️ **Role-Based Rewards** – Create, delete, and view invite-based role rewards.  
+👤 **New Member Notifications** – Announces new members and their inviter in the system channel by default.  
+🔎 **Invite Tracking** – Keeps track of each member’s total invites.  
+🏆 **Role-Based Rewards** – Create, delete, and view invite-based role rewards.  
 
 ---
 
